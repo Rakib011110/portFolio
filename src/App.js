@@ -45,11 +45,11 @@ function App() {
 
       <Experience />
       <Contactinfo></Contactinfo>
-      <Contact />
+      {/* <Contact /> */}
 
-      <Contactme />
+      {/* <Contactme /> */}
 
-      <SocialLinks />
+      {/* <SocialLinks /> */}
       <Footer></Footer>
 
     </div>
